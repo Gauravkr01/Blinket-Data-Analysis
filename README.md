@@ -131,4 +131,4 @@ Optimize product inventory decisions
 Analyze sales & delivery performance to enhance efficiency
 
 
-<img width="960" height="518" alt="Image" src="https://github.com/user-attachments/assets/68718cd7-4c6d-4380-9376-ae540150c1ad" />
+<img width="637" height="343" alt="Image" src="https://github.com/user-attachments/assets/79360763-1ce9-43ab-8552-9f50e0bc65d1" />
